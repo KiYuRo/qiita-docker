@@ -33,7 +33,7 @@ docker compose exec app /bin/bash
 
 python実行
 ```
-python test.py
+python app.py
 ```
 
 
